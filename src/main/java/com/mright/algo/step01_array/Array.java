@@ -1,4 +1,4 @@
-package com.mright.algo.array;
+package com.mright.algo.step01_array;
 
 import java.text.MessageFormat;
 

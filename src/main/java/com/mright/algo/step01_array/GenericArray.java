@@ -1,4 +1,4 @@
-package com.mright.algo.array;
+package com.mright.algo.step01_array;
 
 /**
  * 泛型式通用的数组
